@@ -10,6 +10,7 @@ This is a simple Django app that provides a Hello World message through a JSON r
 
 Make sure you have Python and Django installed on your machine. If not, you can install them using the following commands:
 
+```
 ```bash
 pip install django
 ```
